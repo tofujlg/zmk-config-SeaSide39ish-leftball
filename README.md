@@ -1,0 +1,2 @@
+# zmk-config-SeaSide39ish-leftball
+SeaSideXを左手トラックボール版のKeyball39ishで使用するためのリポジトリです。
